@@ -1,7 +1,7 @@
 #!/usr/local/php/bin/php
  
 <?php
-define('__ROOT__', '/webroot/sms.xwg.cc/');
+define('__ROOT__', '/Daemon/');
 define('__SCRIPT__', __ROOT__.'/Script/');
 define('__LIB__', __ROOT__.'/Lib/');
 define('__LOG__', __ROOT__.'/Log/');
